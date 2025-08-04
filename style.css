@@ -149,8 +149,14 @@ section {
   left: 230px;
 }
 
-@media (max-width: 768px) {
-  header {
+@media (max-width: 1334px) {
+  section {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 872px) {
+  .image {
     flex-direction: column;
   }
 }
