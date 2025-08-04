@@ -73,10 +73,11 @@ section {
 .btne .bob {
   background-color: #08f308;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 8px;
   text-align: center;
   padding-left: 20px;
   padding-right: 20px;
+  margin: 20px;
 }
 .bob a {
   color: rgb(0, 0, 0);
@@ -101,7 +102,7 @@ section {
 .btne .bos {
   background-color: #ffffff;
   padding: 10px;
-  border-radius: 5px;
+  border-radius: 8px;
   text-align: center;
   padding-left: 20px;
   padding-right: 20px;
